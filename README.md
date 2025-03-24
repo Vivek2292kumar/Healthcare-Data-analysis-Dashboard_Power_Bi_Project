@@ -1,1 +1,1 @@
-# Power_Bi-Healthcare-Data-analysis-Dashboard
+This project focuses on analyzing healthcare data using Power BI to gain insights into patient demographics, hospital performance, treatment efficiency, and cost management. The goal is to present interactive dashboards that help stakeholders make data-driven decisions.
