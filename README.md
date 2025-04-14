@@ -1,4 +1,6 @@
  #Healthcare Data Analysis Dashboard
+
+ 
 This project showcases a comprehensive healthcare data analysis using an interactive Power BI dashboard. It focuses on patient demographics, hospital performance, treatment efficiency, cost analysis, and future forecasting of patient admissions. The goal is to extract actionable insights that can help healthcare providers improve treatment quality, operational efficiency, and resource planning.
 
 ![Screenshot 2025-04-04 092335](https://github.com/user-attachments/assets/5acbbd9f-b018-4800-879d-eafd1753182e)
@@ -80,25 +82,7 @@ Excel/CSV: Data preprocessing and formatting (if applicable)
 
 Python (Optional): Could be used for preprocessing or predictive modeling (not shown in dashboard)
 
-📁 Project Structure
-scss
-Copy
-Edit
-📦 Healthcare-Data-Analysis
-├── 📊 Power BI Dashboard File (.pbix)
-├── 📄 Screenshot (Dashboard preview image)
-├── 📁 Dataset (if provided)
-├── 📝 README.md
-🚀 How to Use
-Download the repository or clone using:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/healthcare-data-analysis.git
-Open the .pbix file using Power BI Desktop.
-
-Explore filters on:
 
 Year
 
